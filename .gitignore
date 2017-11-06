@@ -27,6 +27,10 @@
 *.so
 *.so.*
 *.dylib
+ lab04-ex02-a.cbp
+  lab04-ex02-a.layout
+  lab04-ex02-a/
+
 
 # Executables
 *.exe
